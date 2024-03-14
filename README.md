@@ -2,6 +2,7 @@
 
 https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/dd898886-180a-48dc-b2bb-d92e9739f5cd
 
+![web](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/dcc48fb8-8467-41dd-8140-398992e7eda1)
 
 <!--
 - 🔭 I’m currently working on ...
