@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/c1a709c1-5285-4dce-81e0-612001b5d2fe
+https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/dd898886-180a-48dc-b2bb-d92e9739f5cd
+
 
 <!--
 - 🔭 I’m currently working on ...
