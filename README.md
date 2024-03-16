@@ -1,11 +1,8 @@
 Hi there 👋
 Welcome to my profile. 
-<!--![web (1)](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/517956af-133e-4a69-a435-c7dd4727487d)-->
 
-<video autoplay loop width="320" height="240">
-  <source src="webs.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![web (1)](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/517956af-133e-4a69-a435-c7dd4727487d)
+
 
 
 <!--
