@@ -3,8 +3,7 @@ Welcome to my profile.
 <!--![web (1)](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/517956af-133e-4a69-a435-c7dd4727487d)-->
 
 <video width="320" height="240" controls>
-  <source src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/c49c51af-dd4b-4d49-97a9-01340796e270
-" type="video/mp4">
+  <source src="webs.mp4" type="video/mp4" autoplay>
   >
 Your browser does not support the video tag.
 </video>
