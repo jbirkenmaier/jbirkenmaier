@@ -4,7 +4,6 @@ Welcome to my profile.
 
 <video width="320" height="240" controls>
   <source src="webs.mp4" type="video/mp4" autoplay>
-  >
 Your browser does not support the video tag.
 </video>
 
