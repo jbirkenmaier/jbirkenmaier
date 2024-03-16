@@ -1,7 +1,7 @@
 Hi there 👋
 Welcome to my profile. 
 
-![web (1)](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/517956af-133e-4a69-a435-c7dd4727487d)
+https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/c806ffd0-6617-44ff-8695-40c31f267e32
 
 
 
