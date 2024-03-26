@@ -7,13 +7,8 @@ Skills: Python / Processing / C++
 
 - 🔭 I’m currently working on this page. 
 
-
-
-
-
 https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/c806ffd0-6617-44ff-8695-40c31f267e32
 
-![image03057](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5)
 
 <!--
 - 🔭 I’m currently working on ...
