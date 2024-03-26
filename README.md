@@ -3,7 +3,7 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="300" height="auto"> 
 
 <video width="320" height="240" autoplay>
-  <source src="./webs.mp4" type="video/mp4">
+  <source src="webs.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 <br>
