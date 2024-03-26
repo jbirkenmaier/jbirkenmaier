@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Johannes
-![](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5)
+![](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5 = 300x200)
 
 I like creating my own projects using Python. These projects can range from machine learning to digital art. 
 
