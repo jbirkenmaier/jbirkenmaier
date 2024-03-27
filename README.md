@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Johannes
 `I like creating my own projects using Python.` <br> 
-`My interests range from machine learning to digital art.` <br> 
+`My interests range from machine learning to generative art.` <br> 
 `Take a look at my gallery:`
 
 <div class="image-container">
