@@ -23,9 +23,11 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/335eaeab-8479-457b-8907-168c862963d3" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/bf68f762-6ef4-4cd7-aabf-aceb06a51ccf" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="50" height="auto"> 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/8c7b78c7-15f3-4ae1-9355-36f251865e64" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="50" height="auto"> 
 </div>
+
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/3dca260d-0886-4c63-9ec5-3f091c9808d5" width="250" height="auto"/>
 
 Skills: Python / Processing / C++
 
