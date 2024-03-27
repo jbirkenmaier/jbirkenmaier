@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Johannes
-I like creating my own projects using Python. My interests range from machine learning to digital art. 
+I like creating my own projects using Python. My interests range from machine learning to digital art. <br>
 Take a look at some of my art projects:
 <!-- ![](https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5)-->
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="70" height="auto"> 
