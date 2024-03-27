@@ -27,7 +27,11 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="50" height="auto"> 
 </div>
 
+Skills: Python / Processing / C++
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier)](https://github.com/jbirkenmaier/github-readme-stats)
+
+- 🔭 I’m currently working on this page. 
 
 <!--### Hi there 👋, my name is Johannes
 `I like creating my own projects using Python. My interests range from machine learning to digital art.` <br>
