@@ -18,6 +18,7 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/e6679b82-4e1a-477e-bb83-889b7d4d02c5" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/079bc491-53f9-40af-b613-4228950e7cfb" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/335eaeab-8479-457b-8907-168c862963d3" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ea29f82a-467f-4b46-ba52-93d594b35481" alt="image" width="50" height="auto"> 
 </div>
 
 <div class="image-container">
