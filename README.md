@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Johannes
 `I like creating my own projects using Python.` <br> 
 `My interests range from machine learning to generative art.` <br> 
-`Take a look at my gallery:`
+`Gallery:`
 
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" style="float:left; margin-right:10px;" alt="image" width="50" height="auto"> 
