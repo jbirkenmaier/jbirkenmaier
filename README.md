@@ -18,7 +18,8 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="70" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="70" height="auto"> 
 <br>
-I like creating my own projects using Python. My interests range from machine learning to digital art.
+I like creating my own projects using Python. My interests range from machine learning to digital art. 
+<br>
 Skills: Python / Processing / C++
 
 
