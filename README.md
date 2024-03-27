@@ -28,9 +28,10 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/8c7b78c7-15f3-4ae1-9355-36f251865e64" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="50" height="auto"> 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d7b38463-3498-4a84-b550-83b699be569a" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/03c2f654-5e4d-458a-b2a3-4e1407737cf7" alt="image" width="50" height="auto"> 
 </div>
 
+<!--<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d7b38463-3498-4a84-b550-83b699be569a" alt="image" width="50" height="auto"> -->
 
 
 <div class="image-container">
