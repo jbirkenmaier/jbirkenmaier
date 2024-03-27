@@ -28,8 +28,8 @@
 </div>
 
 <div class="image-container">
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="223" height="auto"/>
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="223" height="auto"/>
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="220" height="auto"/>
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="220" height="auto"/>
 </div>
 Skills: Python / Processing / C++
 
