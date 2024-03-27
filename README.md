@@ -4,10 +4,10 @@
 `Gallery:`
 
 <div class="image-container">
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" style="float:left; margin-right:10px;" alt="image" width="50" height="auto"> 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" style="float:left; alt="image" width="50" height="auto"> 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4a817459-a6b6-44ea-9e62-19270dfd68f9" style="float:left; alt="image" width="50" height="auto"> 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/52dad5a1-c902-4ecb-8114-65db0a310ef8" style="float:left; alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4a817459-a6b6-44ea-9e62-19270dfd68f9" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/52dad5a1-c902-4ecb-8114-65db0a310ef8" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/f3faebf0-0d26-4c60-a14f-929a651b7a00" alt="image" width="50" height="auto"> 
 </div>
 
