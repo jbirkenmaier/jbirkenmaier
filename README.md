@@ -29,7 +29,8 @@
 
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="100" height="auto"/>
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="100" height="auto"/>
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/f98a3340-299e-4916-82b6-07fbd9f8ff37" alt="image" width="100" height="auto"/>
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/869d97c7-9013-4fb2-b506-eb3f9da205a1" alt="image" width="100" height="auto"/>
 </div>
 Skills: Python / Processing / C++
 
