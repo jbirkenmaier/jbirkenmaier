@@ -27,8 +27,10 @@
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="50" height="auto"> 
 </div>
 
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" width="267" height="auto"/>
-
+<div class="image-container">
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" width="223" height="auto"/>
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" width="223" height="auto"/>
+</div>
 Skills: Python / Processing / C++
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier)](https://github.com/jbirkenmaier/github-readme-stats)
