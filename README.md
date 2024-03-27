@@ -8,6 +8,8 @@ I like creating my own projects using Python. My interests range from machine le
 
 Skills: Python / Processing / C++ 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier)](https://github.com/jbirkenmaier/github-readme-stats)
+
 - 🔭 I’m currently working on this page. 
 
 <!--https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/c806ffd0-6617-44ff-8695-40c31f267e32
