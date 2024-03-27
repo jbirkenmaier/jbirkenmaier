@@ -1,33 +1,32 @@
 ### Hi there 👋, my name is Johannes
 `I like creating my own projects using Python. My interests range from machine learning to digital art.`
 
-Take a look at some of my art projects:
+`Take a look at some of my art projects:`
 
 <div class="image-container">
-  <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="100" height="auto">
-  <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="100" height="auto">
-  <!-- Add more images here -->
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" style="float:left; margin-right:10px;" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" style="float:left; alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4a817459-a6b6-44ea-9e62-19270dfd68f9" style="float:left; alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/52dad5a1-c902-4ecb-8114-65db0a310ef8" style="float:left; alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/f3faebf0-0d26-4c60-a14f-929a651b7a00" alt="image" width="50" height="auto"> 
 </div>
 
 <div class="image-container">
-  <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/8aa73e50-ca4a-4a9a-975a-ff11176ea34c" alt="image" width="100" height="auto">
-  <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/3265cf4c-c9bd-4d8a-b4ab-9b4b1d5b6510" alt="image" width="100" height="auto">
-  <!-- Add more images here -->
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/8aa73e50-ca4a-4a9a-975a-ff11176ea34c" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/3265cf4c-c9bd-4d8a-b4ab-9b4b1d5b6510" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/e6679b82-4e1a-477e-bb83-889b7d4d02c5" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/079bc491-53f9-40af-b613-4228950e7cfb" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/335eaeab-8479-457b-8907-168c862963d3" alt="image" width="50" height="auto"> 
 </div>
 
-<!-- Add more rows if needed -->
+<div class="image-container">
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/335eaeab-8479-457b-8907-168c862963d3" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/bf68f762-6ef4-4cd7-aabf-aceb06a51ccf" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4b8587a9-f968-4a85-8b6f-e4565f3bcd1d" alt="image" width="50" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/ec1802fe-1baa-4da4-b0d2-75f628589f6e" alt="image" width="50" height="auto"> 
+</div>
 
-<style>
-  .image-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-bottom: 20px;
-  }
-  .image-container img {
-    margin: 5px;
-  }
-</style>
 
 
 <!--### Hi there 👋, my name is Johannes
