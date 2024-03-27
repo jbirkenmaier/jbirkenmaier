@@ -1,8 +1,9 @@
 ### Hi there 👋, my name is Johannes
-`I like creating my own projects using Python.` <br> 
-`My interests range from machine learning to generative art.` <br> 
-`Gallery:`
 
+I like creating my own projects using Python. <br> 
+My interests range from machine learning to generative art. <br> 
+
+`Gallery:`
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="50" height="auto"> 
