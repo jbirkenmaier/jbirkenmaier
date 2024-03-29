@@ -42,7 +42,7 @@ My interests range from machine learning to generative art. <br>
 </div>
 Skills: Python / Processing / C++
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier&show_icons=true&theme=dark)
 <!--[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier)](https://github.com/jbirkenmaier/github-readme-stats&theme=dark)-->
 
 - 🔭 I’m currently working on this page. 
