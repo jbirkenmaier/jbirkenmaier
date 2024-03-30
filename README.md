@@ -6,10 +6,11 @@ My interests range from machine learning to generative art. <br>
 Here are some of my projects:
 
 ## Chess-Project
+In this project I am building a simple chess game. I am using the python programming language and the Matplotlib library.
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/649c7a25-e0c5-4d09-ad6a-e6856d3682cf" alt="image" width="300" height="auto"> 
 </div>
-In this project I am building a simple chess game. I am using the python programming language and the Matplotlib library. Currently you can move and capture pieces and illegal moves are excluded (still in progress). 
+Currently you can move and capture pieces and illegal moves are excluded (still in progress). 
 In the future I want to add the option to import PGN Data to replay and study past games. Another goal with this project is, to offer the option of playing Hand-and-Brain Chess. This is a chess variant in which pairs of two players play against each other. 
 This variant is not supported by most platforms, that is why I decided to build my own version. 
 
