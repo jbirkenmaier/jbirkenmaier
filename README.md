@@ -13,7 +13,7 @@ In this project I am building a simple chess game. I am using the python program
 In the future I want to add the option to import PGN Data to replay and study past games. Another goal with this project is to offer the option of playing Hand-and-Brain Chess. This is a chess variant in which pairs of two players play against each other. 
 This variant is not supported by most platforms, that is why I decided to build my own version. 
 
-## Observing enclosed air within structured surface
+## Observing enclosed air within structured surface in water
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/36ca540d-c46c-489c-9479-0300996e4383" alt="image" width="150" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d0aaba3c-3f48-4a54-8a8e-bead8bf1540f" alt="image" width="150" height="auto"> 
