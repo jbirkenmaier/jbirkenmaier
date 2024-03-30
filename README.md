@@ -31,7 +31,7 @@ Future ideas for this project are to apply it to new problems like for example X
 
 ## My generative art gallery 
 
-I like to create digital environments that mimic or are similiar to actual physical phenomenon and act on virtual objects. The objects behavior then is totally determined by its initial conditions (initial location, initial velocity) which I choose to be random.
+I like to create digital environments that mimic or are similiar to actual physical phenomenon and act on virtual objects. The objects behavior then is totally determined by its initial conditions (initial location, initial velocity) which I choose to be random. I am using Python within a Processing environment.
 
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
