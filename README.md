@@ -3,7 +3,7 @@
 I like creating my own projects using Python. <br> 
 My interests range from machine learning to generative art. <br> 
 
-Here are some of my `projects`:
+Here are some of my projects:
 
 ## Chess-Project
 <div class="image-container">
