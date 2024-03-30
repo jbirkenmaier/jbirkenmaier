@@ -30,6 +30,9 @@ As visible in the right image, some of the air surface is not detected by the al
 Future ideas for this project are to apply it to new problems like for example X-Ray imaging.
 
 ## My generative art gallery 
+
+I like to create digital environments that mimic or are similiar to actual physical phenomenon and act on virtual objects. The objects behavior then is totally determined by its initial conditions (initial location, initial velocity) which I choose to be random.
+
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="50" height="auto"> 
