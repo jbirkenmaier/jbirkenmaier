@@ -5,6 +5,7 @@ My interests range from machine learning to generative art. <br>
 
 Here are some of my `projects`:
 
+## Chess-Project
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/649c7a25-e0c5-4d09-ad6a-e6856d3682cf" alt="image" width="300" height="auto"> 
 </div>
