@@ -27,9 +27,7 @@ Here are some example images. The left image shows how the images looked like wh
 </div>
 As visible in the right image, some of the air surface is not detected by the algorithm. This is due to the air surface not being uniform and therefore not reflecting the light the same way everywhere. I solved this issue by taking multiple images at random locations of the rotating sample. I then averaged of the ammounts of white pixels and could account for the deviation. 
 
-
-
-`Gallery:`
+## Gallery 
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="50" height="auto"> 
