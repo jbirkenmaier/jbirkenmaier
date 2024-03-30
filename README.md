@@ -15,7 +15,7 @@ This variant is not supported by most platforms, that is why I decided to build 
 
 ## Observing enclosed air within structured surface in water
 In this project I observed the behaviour of enclosed air within a structure that is under water. I took images over a long period of time. To analyze the many images, I had to develop an algorithm that evaluated the image data. 
-I used the effect of "total internal reflection" of the air surface as visible in the images and in my program set a threshold so that below a certain brightness of a pixel it will be counted as black and otherwise as white. 
+I used the effect of "total internal reflection" of the air surface as visible in the images and (in my program) set a brightness-threshold so that below a certain brightness of a pixel it will be counted as black and otherwise as white. 
 Provided there is no external distubance (e.g. change in lighting), the ammount of white pixels then is the unit that characterizes the ammount of air entailed in the structure.
 Here are some example images. The left image shows how the images looked like when taken with the camera. The right image is a visual representation of the evaluated data. 
 <div class="image-container">
