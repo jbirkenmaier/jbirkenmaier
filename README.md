@@ -26,7 +26,7 @@ Here are some example images. The left image shows how the images looked like wh
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d0aaba3c-3f48-4a54-8a8e-bead8bf1540f" alt="image" width="150" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/36ca540d-c46c-489c-9479-0300996e4383" alt="image" width="150" height="auto"> 
 </div>
-As visible in the right image, some of the air surface is not detected by the algorithm. This is due to the air surface not being uniform and therefore not reflecting the light the same way everywhere. I solved this issue by taking multiple images at random locations of the rotating sample. I then averaged of the ammounts of white pixels and could account for the deviation. <br>
+As visible in the right image, some of the air surface is not detected by the algorithm. This is due to the air surface not being uniform and therefore not reflecting the light the same way everywhere. I solved this issue by taking multiple images at random locations of the rotating sample. I then averaged over the ammounts of white pixels in this set of 10 pictures and therefore could account for the deviation. <br>
 Future ideas for this project are to apply it to new problems like for example X-Ray imaging.
 
 ## Gallery 
