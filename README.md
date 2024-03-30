@@ -14,10 +14,16 @@ In the future I want to add the option to import PGN Data to replay and study pa
 This variant is not supported by most platforms, that is why I decided to build my own version. 
 
 ## Observing enclosed air within structured surface in water
+In this project I observed the behaviour of enclosed air within a structure that is under water. I took images over a long period of time. To analyze the many images, I had to develop an algorithm that evaluated the image data. 
+I used the effect of "total internal reflection" of the air surface as visible in the images and in my program set a threshold so that below a certain brightness of a pixel it will be counted as black and otherwise as white. 
+Provided there is no external distubance (e.g. change in lighting), the ammount of white pixels then is the unit that characterizes the ammount of air entailed in the structure.
+Here are some example images. The left image shows how the images looked like when taken with the camera. The right image is a visual representation of the evaluated data. 
 <div class="image-container">
-<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/36ca540d-c46c-489c-9479-0300996e4383" alt="image" width="150" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d0aaba3c-3f48-4a54-8a8e-bead8bf1540f" alt="image" width="150" height="auto"> 
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/36ca540d-c46c-489c-9479-0300996e4383" alt="image" width="150" height="auto"> 
 </div>
+
+
 
 
 `Gallery:`
