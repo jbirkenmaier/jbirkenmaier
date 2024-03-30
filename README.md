@@ -31,7 +31,7 @@ Future ideas for this project are to apply it to new problems like for example X
 
 ## My generative art gallery 
 
-I love crafting digital worlds with their own physics, where the movement of objects is entirely determined by initial conditions – which I randomize for each run. This results in unique images and movement any time I run the programm. I am using Python within a Processing environment.
+I love crafting dynamic digital environments with unique physics, where the movement of objects is entirely determined by initial conditions – which I randomize for each run. This results in unique images and movement any time I run the program. I am using Python within a Processing environment.
 
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
