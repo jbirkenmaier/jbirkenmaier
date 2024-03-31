@@ -15,7 +15,7 @@ In the future I want to add the option to import PGN Data to replay and study pa
 This variant is not supported by most platforms, that is why I decided to build my own version. 
 
 ## Observing enclosed air within structured surface in water
-In this project I observed the behaviour of enclosed air within a structure that is under water and applied to a cylindrical body which is rotating. I took images over a period of several days. To analyze the many images, I had to develop an algorithm that evaluated the image data. 
+In this project I observed the behaviour of enclosed air within a structure that is under water and applied to a cylindrical body which is rotating. I took images over a period of several days. To analyze the many images, I had to develop an algorithm that evaluated the image data. Here you can see the experimental setup:
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/1a131dda-47cd-4da8-abe7-9bca4db693ea" alt="image" width="300" height="auto"> 
 </div>
