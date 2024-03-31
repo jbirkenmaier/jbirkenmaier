@@ -1,9 +1,9 @@
 # Hi there 👋, my name is Johannes
-
+Welcome to my profile!
 I like creating my own projects using Python. <br> 
 My interests range from machine learning to generative art. <br> 
 
-Here are some of my projects:
+Let me introduce you to some of my projects:
 
 ## Chess-Project
 In this project I am building a simple chess game. I am using the python programming language and the Matplotlib library.
