@@ -1,6 +1,6 @@
 # Hi there 👋, my name is Johannes
 Welcome to my profile!
-I like creating my own projects using Python. <br> 
+I like creating projects using Python. <br> 
 My interests range from machine learning to generative art. <br> 
 
 Let me introduce you to some of my projects:
