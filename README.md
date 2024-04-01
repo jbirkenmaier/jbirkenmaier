@@ -7,15 +7,25 @@ Let me introduce you to some of my projects:
 
 ## Chess-Project
 In this project I am building a simple chess game. I am using the python programming language and the Matplotlib library.
+<details>
+  <summary>Click to expand</summary>
+
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/649c7a25-e0c5-4d09-ad6a-e6856d3682cf" alt="image" width="300" height="auto"> 
 </div>
 Currently you can move and capture pieces and illegal moves are excluded (still in progress). 
 In the future I want to add the option to import PGN Data to replay and study past games. Another goal with this project is, to offer the option of playing Hand-and-Brain Chess. This is a chess variant in which pairs of two players play against each other. 
-This variant is not supported by most platforms, that is why I decided to build my own version. 
+This variant is not supported by most platforms, that is why I decided to build my own version.
+</details>
+ 
 
 ## Observing enclosed air within structured surface in water
-In this project I observed the behaviour of enclosed air within a structure that is under water and applied to a cylindrical body which is rotating. I took images over a period of several days. To analyze the many images, I had to develop an algorithm that evaluated the image data. Here you can see the experimental setup:
+
+  In this project I observed the behaviour of enclosed air within a structure that is under water and applied to a cylindrical body which is rotating. I took images over a
+  period of several days. To analyze the many images, I had to develop an algorithm that evaluated the image data.
+<details>
+<summary>Click to expand</summary>
+Here you can see the experimental setup:
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/1a131dda-47cd-4da8-abe7-9bca4db693ea" alt="image" width="300" height="auto"> 
 </div>
@@ -29,10 +39,15 @@ Here are some example images. The left image shows how the images looked like wh
 As visible in the right image, some of the air surface is not detected by the algorithm. This is due to the air surface not being uniform and therefore not reflecting the light the same way everywhere. I solved this issue by taking multiple images at random locations of the rotating sample. I then averaged over the ammounts of white pixels in this set of images and therefore could account for the deviation. <br>
 Future ideas for this project are to apply it to new problems like for example X-Ray imaging.
 
+</details>
+
+
 ## My generative art gallery 
 
 I love crafting dynamic digital environments with unique physics, where the movement of objects is entirely determined by initial conditions – which I randomize for each run. This results in unique images and movement any time I run the code. I am using Python within a Processing environment.
 
+<details>
+  <summary>Expand to see my gallery</summary>
 <div class="image-container">
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/d2207266-0bc9-43d5-b6ff-c61c6ed4edd5" alt="image" width="50" height="auto"> 
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/4adcbb38-c6c5-4836-8af7-537dd11f823c" alt="image" width="50" height="auto"> 
@@ -69,6 +84,8 @@ I love crafting dynamic digital environments with unique physics, where the move
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/f98a3340-299e-4916-82b6-07fbd9f8ff37" alt="image" width="100" height="auto"/>
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/869d97c7-9013-4fb2-b506-eb3f9da205a1" alt="image" width="100" height="auto"/>
 </div>
+</details>
+
 Skills: Python / Processing / C++
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jbirkenmaier&show_icons=true&theme=dark)
