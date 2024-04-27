@@ -83,8 +83,13 @@ I love crafting dynamic digital environments with unique physics, where the move
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/a4d514df-9e6c-455d-a74c-6747cc8272db" alt="image" width="100" height="auto"/>
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/f98a3340-299e-4916-82b6-07fbd9f8ff37" alt="image" width="100" height="auto"/>
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/869d97c7-9013-4fb2-b506-eb3f9da205a1" alt="image" width="100" height="auto"/>
+</div>
+
+<div class="image-container">
+<img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/50058131-a982-45e4-b2ff-8a67bf8d3b62" alt="image" width="100" height="auto"/>
 <img src="https://github.com/jbirkenmaier/jbirkenmaier/assets/127735731/55ca06f0-5f44-42d7-a3a2-0d60f1255bda" alt="image" width="100" height="auto"/>
 </div>
+
 </details>
 
 Skills: Python / Processing / C++
